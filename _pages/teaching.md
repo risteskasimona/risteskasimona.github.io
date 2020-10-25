@@ -7,16 +7,16 @@ author_profile: true
 
 ## Teaching Experience
 
-#### Executive Level
+### Executive Level
 
 - Accounting for Corporate Finance for executives
 
-#### Master Level
+### Master Level
 
 - FM422E - Corporate Finance
 - FM458 - Financial Economics
 
-#### Undergraduate Level
+### Undergraduate Level
 
 - FM213 - Principles of Finance
 - FM230 - Alternative Investments (Summer School)
