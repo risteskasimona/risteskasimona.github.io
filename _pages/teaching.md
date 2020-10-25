@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Experience
 ## Executive Level
 
 - a
