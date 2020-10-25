@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Francesco Nicolai"
-  avatar           : "mypic.jpg"
+  avatar           : "francesco1.jpg"
   bio              : "Ph.D. Candidate in Finance"
-  location         : "London, UK"
+  location         : #"London, UK"
   employer         : "London School of Economics"
   googlescholar    : 
   email            : f.nicolai(at)lse.ac.uk 
