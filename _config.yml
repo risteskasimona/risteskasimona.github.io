@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Francesco Nicolai"
+title                    : "Simona Risteska"
 title_separator          : "-"
-name                     : &name "Francesco Nicolai"
+name                     : &name "Simona Risteska"
 description              : &description "Ph.D. Candidate in Finance"
-url                      : https://francesconicolai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://risteskasimona.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "francesconicolai/francesconicolai.github.io"
+repository               : "risteskasimona/risteskasimona.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Francesco Nicolai"
-  avatar           : "francesco1.jpg"
+  name             : "Simona Risteska"
+  avatar           : "simona.jpg"
   bio              : "Ph.D. Candidate in Finance"
   location         : "London, UK"
   employer         : #"London School of Economics"
   googlescholar    : 
-  email            : f.nicolai(at)lse.ac.uk 
+  email            : s.risteska(at)lse.ac.uk 
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "francesconicolai"
+  github           : "risteskasimona"
   google_plus      :
   keybase          :
   instagram        :
@@ -104,7 +104,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "FraNicolai"
+  twitter          : "simona_r28"
   vine             :
   weibo            :
   xing             :
