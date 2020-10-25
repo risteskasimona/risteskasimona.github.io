@@ -8,10 +8,10 @@ author_profile: true
 # Job Market Paper
 ## Executive Level
 
-*a
-*b
-*c
+- a
+- b
+- c
 
 ## ababa
 
-##gdgdg
+## gdgdg
