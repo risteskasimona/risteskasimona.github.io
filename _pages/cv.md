@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[pdf version](https://google.com)
+Download pdf [here](https://google.com)
 
 Education
 ======
