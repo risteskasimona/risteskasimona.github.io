@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Curriculum Vit&aelig](https://github.com/francesconicolai/francesconicolai.github.io/blob/master/CV/CVFrancesco-Nicolai.pdf)
+[CV](https://github.com/francesconicolai/CV/CVFrancesco-Nicolai.pdf)
