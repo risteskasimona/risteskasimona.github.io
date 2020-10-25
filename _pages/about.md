@@ -10,5 +10,5 @@ redirect_from:
 
 I am a Ph.D. Candidate in Finance at the London School of Economics. I will be available on the 2020/21 Academic Job Market. My job market paper can be found [here](https://github.com/academicpages/academicpages.github.io).
 
-My interests are in Financial Intermediations, Behavioural Finance and Public Finance. 
+My interests are in Asset Pricing, Behavioural Finance, Financial Intermediation and Public Finance. 
 
