@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Tesearch"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-# Job Market Paper
+# Teaching Experience
 ## Executive Level
 
 - a
