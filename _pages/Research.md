@@ -13,6 +13,8 @@ Collateralized Loan Obligations (CLOs) spread shocks in the market for leveraged
 # Working Papers
 [Revealed Expectations and Learning Biases: Evidence from the Mutual Fund Industry](https://github.com/academicpages/academicpages.github.io)
 
+(with [Simona Risteska](https://risteskasimona.github.io)) 
+
 By inverting the optimal portfolios of mutual fund managers in a fairly general setting, which allows us to partial out the effect of risk aversion and hedging demands, we provide an estimate of perceived expected excess returns and show that they are significantly affected by experienced returns. The effect of past returns is non-monotone: we provide reduced-form and structural evidence of managers displaying recency and primacy bias. Finally, we estimate an average coefficient of relative risk aversion close to unity.
 
 [Living on the Edge: the Salience of Property Taxes in the UK Housing Market](https://github.com/academicpages/academicpages.github.io)
