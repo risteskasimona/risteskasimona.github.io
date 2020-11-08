@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Job Market Paper
-### [Learning from Past Prices: Evidence from the UK Housing Market](https://risteskasimona.github.io/files/papers/LearningFromPastPrices_SimonaRisteska.pdf)
+### [Learning from Past Prices: Evidence from the UK Housing Market](https://risteskasimona.github.io/papers/LearningFromPastPrices_SimonaRisteska.pdf)
 
 Imperfect knowledge about the structure of information flows can cause pricing mistakes in environments characterised by social learning. Using a natural experiment from the UK housing market that generates shocks to the information set of prospective sellers, along with data on housing prices and property listings, I show that sellers do not account for duplication of information that arises in settings where prices are determined sequentially and each seller observes the actions of previous actors. Stale information gets overweighted with each repeated use and this can lead to small shocks having a long-lasting effect on aggregate market dynamics when fundamentals are highly persistent.
 
