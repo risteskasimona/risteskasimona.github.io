@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download: [pdf](https://risteskasimona.github.io/CV/CVSimona-Risteska.pdf)
+Download: [pdf](https://risteskasimona.github.io/CV/CV-Simona-Risteska.pdf)
