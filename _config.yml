@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simona Risteska"
 title_separator          : "-"
 name                     : &name "Simona Risteska"
-description              : &description "Ph.D. Candidate in Finance"
+description              : &description "Assistant Professor of Finance"
 url                      : https://risteskasimona.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "risteskasimona/risteskasimona.github.io"
@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Simona Risteska"
   avatar           : "simona.JPG"
-  bio              : "Ph.D. Candidate in Finance"
+  bio              : "Assistant Professor of Finance"
   location         : "London, UK"
-  employer         : #"London School of Economics"
+  employer         : #"Warwick Business School"
   googlescholar    : 
-  email            : s.risteska@lse.ac.uk 
+  email            : simona.risteska@wbs.ac.uk 
   uri              :
   bitbucket        :
   codepen          :
