@@ -11,8 +11,7 @@ author_profile: true
 Imperfect knowledge about the structure of information flows can cause pricing mistakes in environments characterised by social learning. Using a natural experiment from the UK housing market that allows me to identify regular shocks to the information set of prospective sellers, I show that they overweight stale information when setting prices. I argue that this is inconsistent with Bayesian rationality and propose a model of na&iuml;ve learning. I use the model, calibrated to the data, to measure the economic magnitude of the long-run effects arising from pricing mistakes. The results indicate that noisy signals bearing little information about future demand can have a long-lasting effect on aggregate prices when the dynamics of demand are highly persistent.
 
 ## Working Papers
-### [Biased Beliefs and Institutional Herding]
-(https://risteskasimona.github.io/research/)
+### [Biased Beliefs and Institutional Herding](https://risteskasimona.github.io/)
 
 (with [Francesco Nicolai](https://francesconicolai.github.io))
 
@@ -35,6 +34,6 @@ Taxes that happen concurrently with the purchase are more salient than deferred 
 
 I analyze the problem of a firm choosing its optimal investment plan by maximising its value in the presence of a simple type of private information regarding future marginal productivity of capital. While, as it is standard in the investment literature, marginal Q is a sufficient statistic for the firm’s investment decision, the presence of foresight complicates the estimation of marginal Q. I show that the shocks recovered by ignoring the problem are not exogenous and can be predicted using past information. Moreover, I propose a news shock which explains a large portion of the variability in investment. Finally, I show that a new measure of marginal Q, constructed by taking into account the presence of foresight, significantly explains corporate investment and reduces the sensitivity of investment to cash-flows.
 
-### [Explaining Search Patterns in the Residential Housing Market]
+### Explaining Search Patterns in the Residential Housing Market
 
 (with [Francesco Nicolai](https://francesconicolai.github.io)) 
