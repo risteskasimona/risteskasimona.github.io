@@ -11,7 +11,7 @@ author_profile: true
 Imperfect knowledge about the structure of information flows can cause pricing mistakes in environments characterised by social learning. Using a natural experiment from the UK housing market that allows me to identify regular shocks to the information set of prospective sellers, I show that they overweight stale information when setting prices. I argue that this is inconsistent with Bayesian rationality and propose a model of na&iuml;ve learning. I use the model, calibrated to the data, to measure the economic magnitude of the long-run effects arising from pricing mistakes. The results indicate that noisy signals bearing little information about future demand can have a long-lasting effect on aggregate prices when the dynamics of demand are highly persistent.
 
 ## Working Papers
-### [Biased Beliefs and Institutional Herding](https://risteskasimona.github.io/)
+### [Biased Beliefs and Institutional Herding]([https://risteskasimona.github.io/](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)) 
 
 (with [Francesco Nicolai](https://francesconicolai.github.io))
 
