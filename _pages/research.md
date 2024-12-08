@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
-### [Biased Beliefs and Institutional Herding]([https://risteskasimona.github.io/](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)) 
+### [Biased Beliefs and Institutional Herding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)
 
 (with [Francesco Nicolai](https://francesconicolai.github.io))
 
