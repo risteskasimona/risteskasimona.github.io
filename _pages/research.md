@@ -33,6 +33,10 @@ Taxes that happen concurrently with the purchase are more salient than deferred 
 
 I analyze the problem of a firm choosing its optimal investment plan by maximising its value in the presence of a simple type of private information regarding future marginal productivity of capital. While, as it is standard in the investment literature, marginal Q is a sufficient statistic for the firm’s investment decision, the presence of foresight complicates the estimation of marginal Q. I show that the shocks recovered by ignoring the problem are not exogenous and can be predicted using past information. Moreover, I propose a news shock which explains a large portion of the variability in investment. Finally, I show that a new measure of marginal Q, constructed by taking into account the presence of foresight, significantly explains corporate investment and reduces the sensitivity of investment to cash-flows.
 
+### What Explains Portfolio Concentration?
+
+(with [Francesco Nicolai](https://francesconicolai.github.io)) 
+
 ### Explaining Search Patterns in the Residential Housing Market
 
 (with [Francesco Nicolai](https://francesconicolai.github.io)) 
