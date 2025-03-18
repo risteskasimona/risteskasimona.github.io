@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ## Working Papers
-### [Biased Beliefs and Institutional Herding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)
+### [Biased Beliefs and Institutional Overcrowding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5024961)
 
 (with [Francesco Nicolai](https://francesconicolai.github.io))
 
-Understanding the determinants of herding behaviour is challenging due to the difficulty in measuring investor beliefs and preferences. This paper addresses this challenge by exploring the dynamics of investor behaviour within the leveraged loan market. Our major findings reveal that herding among institutional investors in this market is driven by incorrect beliefs about their peers' actions rather than unobservable asset characteristics or positive spillovers across investors. Using a structural model of entry, along with exclusion restrictions and instrumental variables, we assess the accuracy of investor beliefs regarding their peers' investment decisions. Our findings refute the hypothesis of unbiased beliefs, indicating that herding is driven by investors' incorrect assumptions about peer behaviour. Additionally, we recover the out-of-equilibrium beliefs of investors, providing insights into the determinants of their investment choices. These insights have significant implications for understanding market dynamics and quantifying the effect of herding on asset prices.
+Understanding the determinants of overcrowding behaviour is challenging due to the difficulty in measuring investor beliefs and preferences. This paper addresses this challenge by exploring the dynamics of investor behaviour within the leveraged loan market. Our major findings reveal that overcrowding among institutional investors in this market is driven by incorrect beliefs about their peers’ actions rather than unobservable asset characteristics or positive spillovers across investors. Using a structural model of entry, along with exclusion restrictions and instrumental variables, we assess the accuracy of investor beliefs regarding their peers’ investment decisions. Our findings refute the hypothesis of unbiased beliefs, indicating that overcrowding is driven by investors’ incorrect assumptions about peer behaviour. Additionally, we recover the out-of-equilibrium beliefs of investors, providing insights into the determinants of their investment choices. These insights have significant implications for understanding market dynamics and quantifying the effect of overcrowding on asset prices.
 
 ### [Learning from Past Prices: Evidence from the UK Housing Market](https://risteskasimona.github.io/papers/LearningFromPastPrices_SimonaRisteska.pdf)
 
