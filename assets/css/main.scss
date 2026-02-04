@@ -39,3 +39,12 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom link colours */
+a, a:visited {
+  color: #009e73; /* green */
+}
+
+a:hover, a:focus {
+  color: #1d5445; /* darker green */
+}
