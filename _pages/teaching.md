@@ -9,30 +9,28 @@ author_profile: true
 
 ### Warwick Business School
 
-#### Online MBA:
+### PhD:
 
-- IB810D Corporate Finance
+- IB9CM0 Empirical Corporate Finance
 
-#### Postgraduate:
+### Postgraduate:
 
-- IB9CM0 Corporate Finance II (PhD level)
-- IB9LM0 Corporate Finance
+- IB810D Corporate Finance, GLOMBA
+- IB9LM0 Corporate Finance, MSc
 
 #### Undergraduate:
 
-- IB1250 Foundations of Financial Management
 - IB1320 Foundations of Finance
+- IB1250 Foundations of Financial Management
+
 
 ### London School of Economics
 
-#### Executive:
-
-- Accounting for Corporate Finance for Executives
-
 #### Postgraduate:
 
-- FM422E Corporate Finance
-- FM458 Financial Economics
+- FM422E Corporate Finance, MSc
+- FM458 Financial Economics, MSc
+- Accounting for Corporate Finance for Executives
 
 #### Undergraduate:
 
@@ -41,7 +39,7 @@ author_profile: true
 
 ## Teaching Awards
 
-- LSESU Teaching Award for Excellent Feedback and Communication, 2018/19
-- Best Class Teacher Award, 2018/19
-- Best Class Teacher Award, 2017/18
+- Outstanding Contribution to Teaching Award (WBS, 2022, 2023, 2025)
+- LSESU Teaching Award for Excellent Feedback and Communication (LSE 2019)
+- Best Class Teacher Award (LSE 2018, 2019)
 
