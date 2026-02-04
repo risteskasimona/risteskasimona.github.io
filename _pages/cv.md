@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download CV (PDF)](https://risteskasimona.github.io/_cv/CV-Simona-Risteska-Jan-2026.pdf){: .btn }
+[Download CV (PDF)](/files/CV-Simona-Risteska.pdf){: .btn }
 
 _Last updated: January 2026_
 
