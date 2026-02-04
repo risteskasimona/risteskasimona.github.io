@@ -9,11 +9,11 @@ author_profile: true
 
 ### Warwick Business School
 
-### PhD:
+#### PhD:
 
 - IB9CM0 Empirical Corporate Finance
 
-### Postgraduate:
+#### Postgraduate:
 
 - IB810D Corporate Finance, GLOMBA
 - IB9LM0 Corporate Finance, MSc
@@ -39,7 +39,7 @@ author_profile: true
 
 ## Teaching Awards
 
-- Outstanding Contribution to Teaching Award (WBS, 2022, 2023, 2025)
+- Outstanding Contribution to Teaching Award (WBS 2022, 2023, 2025)
 - LSESU Teaching Award for Excellent Feedback and Communication (LSE 2019)
 - Best Class Teacher Award (LSE 2018, 2019)
 
