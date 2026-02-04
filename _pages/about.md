@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 I am an Assistant Professor of Finance at Warwick Business School.
 
-**Research Interests:** 
+**Research areas:** 
 - Beliefs, learning, and behavioural biases in finance
 - Housing markets and housing taxation 
 - Institutional investors and delegated asset management
