@@ -166,15 +166,23 @@ a:hover, a:focus {
 }
 
 @media (max-width: 768px) {
-  .research-card {
-    padding: 1rem 1rem;
-  }
+ .research-card {
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  margin: 0 0 2rem 0;
+  box-shadow: none;
+}
 
-  .research-title {
-    font-size: 1.1rem;
-  }
+.research-card-featured {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
 
-  .research-intro p {
-    font-size: 1rem;
-  }
+.research-card-compact {
+  padding: 0;
+  margin-bottom: 1.5rem;
+}
 }
