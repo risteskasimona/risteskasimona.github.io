@@ -33,7 +33,7 @@ author_profile: true
   <details class="research-details">
     <summary>Show abstract</summary>
     <p>
-      Price transparency is often thought to improve price discovery. I show that, in illiquid markets where informational provenance is opaque, disclosure can instead create an information multiplier: a single price innovation is repeatedly embedded in later valuations and gains influence with repeated use. Exploiting predetermined monthly public releases introduced in 2012, I combine administrative transaction records with asking prices in the UK housing market. Release dates generate discrete and economically meaningful shifts in price setting: asking prices posted immediately after disclosure react sharply, and the effect of a given innovation grows as it is recycled through successive valuations rather than discounted as redundant. This amplification passes through almost one-for-one into subsequent transaction prices with limited effect on time on the market. The results imply that transparency and platform design can meaningfully reshape asset price dynamics.
+      Price transparency is thought to improve price discovery. I show that, in illiquid markets where informational provenance is opaque, disclosure can instead create an information multiplier: a single price innovation is repeatedly embedded in later valuations and gains influence with its repeated use. Exploiting predetermined monthly public releases introduced in 2012, I combine administrative transaction records with asking prices in the UK housing market. The release dates produce discrete, economically meaningful shifts in price setting: asking prices posted immediately after disclosure react sharply, and the impact of a given innovation grows as it is recycled through successive valuations rather than discounted as redundant. This amplification passes through almost one-for-one into subsequent transaction prices with limited effect on time-on-the-market. The results imply that transparency and platform design can meaningfully reshape asset price dynamics.
     </p>
   </details>
 </div>
@@ -58,7 +58,9 @@ author_profile: true
   <details class="research-details">
     <summary>Show abstract</summary>
     <p>
-      Understanding the determinants of overcrowding behaviour is challenging because investor beliefs and preferences are difficult to measure. We address this challenge by studying institutional investor behaviour in the leveraged loan market. Our results show that overcrowding is driven by incorrect beliefs about peers’ actions rather than by unobservable asset characteristics or positive spillovers across investors. Using a structural model of entry together with exclusion restrictions and instrumental variables, we test the accuracy of investors’ beliefs regarding their peers’ investment decisions. We reject the hypothesis of unbiased beliefs and recover investors’ out-of-equilibrium beliefs, providing new evidence on the determinants of investment choices and the role of overcrowding in asset price dynamics.
+      Understanding the determinants of overcrowding behaviour is challenging due to the difficulty in measuring investor beliefs and preferences. This paper addresses this challenge by exploring the dynamics of investor behaviour within the leveraged loan market. Our major findings reveal that overcrowding among institutional investors in this market is driven by incorrect beliefs about their peers’ actions rather than unobservable asset characteristics or positive spillovers
+across investors. Using a structural model of entry, along with exclusion restrictions and instrumental variables, we assess the accuracy of investor beliefs regarding their peers’ investment decisions. Our findings refute the hypothesis of unbiased beliefs, indicating that overcrowding is driven by investors’ incorrect assumptions about peer behaviour. Additionally, we recover the out-of-equilibrium beliefs of investors, providing insights into the determinants of their investment
+choices. These insights have significant implications for understanding market dynamics and quantifying the effect of overcrowding on asset prices.
     </p>
   </details>
 </div>
@@ -83,7 +85,8 @@ author_profile: true
   <details class="research-details">
     <summary>Show abstract</summary>
     <p>
-      Under classic no-manipulation conditions on market impact, price-based risk constraints such as margins, haircuts, leverage limits, volatility targets, and mandates can still generate dynamic arbitrage. We develop a refined no-dynamic-arbitrage test for such environments that requires only the constraint rule and an estimate of market impact. The test also yields an upper bound on the size of the constrained sector consistent with non-manipulability. We apply it to volatility-managed portfolios and show that admissible scale is limited, with vulnerability increasing sharply once linked notional becomes large relative to average daily volume. Manipulation incentives are strongest in low-volatility states because measured risk and rule-induced trading interact mechanically.
+      Under classic no-manipulation conditions on market impact, price-based risk constraints (margins, haircuts, leverage limits, volatility targets, mandates) can still generate dynamic arbitrage. We develop a refined no-dynamic-arbitrage test for such environments; it requires only the constraint rule and an estimate of market impact. The test also yields an upper bound on the size of the constrained sector consistent with non-manipulability. We apply it to volatility-managed
+portfolios: admissible scale is well below one day of average daily volume, and vulnerability increases sharply once linked notional reaches roughly one to two days of daily volume. Manipulation incentives are strongest in low-volatility states, driven by feedback between measured risk and rule-induced trading.
     </p>
   </details>
 </div>
@@ -110,7 +113,7 @@ author_profile: true
   <details class="research-details">
     <summary>Show abstract</summary>
     <p>
-      By inverting the optimal portfolios of mutual fund managers in a fairly general setting, and allowing for the effects of risk aversion and hedging demands, we estimate perceived expected excess returns and show that they are significantly affected by experienced returns. The effect of past returns is non-monotone: we provide reduced-form and structural evidence that managers display both recency and primacy bias. We also estimate an average coefficient of relative risk aversion close to unity.
+      By inverting the optimal portfolios of mutual fund managers in a fairly general setting, which allows us to partial out the effect of risk aversion and hedging demands, we provide an estimate of perceived expected excess returns and show that they are significantly affected by experienced returns. The effect of past returns is non-monotone: we provide reduced-form and structural evidence of managers displaying recency and primacy bias. Finally, we estimate an average coefficient of relative risk aversion close to unity.
     </p>
   </details>
 </div>
