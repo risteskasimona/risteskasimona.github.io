@@ -48,3 +48,133 @@ a, a:visited {
 a:hover, a:focus {
   color: #1d5445; /* darker green */
 }
+
+/* Custom link colours */
+
+a, a:visited {
+  color: #009e73; /* green */
+}
+
+a:hover, a:focus {
+  color: #1d5445; /* darker green */
+}
+
+/* Research page styling */
+
+.research-intro {
+  margin: 0 0 2rem 0;
+  max-width: 48rem;
+}
+
+.research-intro p {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #374151;
+  margin-bottom: 0;
+}
+
+.research-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 1.25rem 1.4rem;
+  margin: 0 0 1.35rem 0;
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.04);
+}
+
+.research-card-featured {
+  border-color: #dbe4f0;
+  box-shadow: 0 10px 28px rgba(15, 23, 42, 0.06);
+}
+
+.research-card-compact {
+  padding-top: 1.1rem;
+  padding-bottom: 1.1rem;
+}
+
+.research-title {
+  margin: 0 0 0.35rem 0;
+  font-size: 1.2rem;
+  line-height: 1.35;
+}
+
+.research-title a {
+  text-decoration: none;
+}
+
+.research-title a:hover {
+  text-decoration: underline;
+}
+
+.research-authors {
+  margin: 0 0 0.7rem 0;
+  color: #6b7280;
+  font-size: 0.98rem;
+}
+
+.research-tags {
+  margin: 0 0 0.8rem 0;
+}
+
+.research-tag {
+  display: inline-block;
+  margin: 0 0.45rem 0.45rem 0;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  background: #f3f4f6;
+  color: #374151;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.research-summary {
+  margin: 0;
+  color: #111827;
+  line-height: 1.7;
+}
+
+.research-details {
+  margin-top: 0.9rem;
+  padding-top: 0.2rem;
+}
+
+.research-details summary {
+  cursor: pointer;
+  color: #1f4b99;
+  font-weight: 600;
+  outline: none;
+}
+
+.research-details summary:hover {
+  text-decoration: underline;
+}
+
+.research-details p {
+  margin: 0.85rem 0 0 0;
+  color: #4b5563;
+  line-height: 1.75;
+}
+
+.page__content h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+.page__content h3 {
+  margin-top: 0;
+}
+
+@media (max-width: 768px) {
+  .research-card {
+    padding: 1rem 1rem;
+  }
+
+  .research-title {
+    font-size: 1.1rem;
+  }
+
+  .research-intro p {
+    font-size: 1rem;
+  }
+}
