@@ -252,3 +252,67 @@ a:hover, a:focus {
     font-size: 1.08rem;
   }
 }
+
+/* Teaching page styling */
+
+.teaching-intro {
+  max-width: 48rem;
+  margin: 0 0 2rem 0;
+}
+
+.teaching-intro p {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #374151;
+}
+
+.teaching-item {
+  margin: 0 0 1.75rem 0;
+  padding: 0 0 1.35rem 0;
+  border-bottom: 1px solid #eceff3;
+}
+
+.teaching-title {
+  margin: 0 0 0.9rem 0;
+  font-size: 1.15rem;
+  line-height: 1.35;
+}
+
+.teaching-subsection {
+  margin: 0 0 1rem 0;
+}
+
+.teaching-level {
+  margin: 0 0 0.35rem 0;
+  color: #6b7280;
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.teaching-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.teaching-list li {
+  margin: 0.2rem 0;
+  line-height: 1.7;
+  color: #111827;
+}
+
+.teaching-awards li {
+  margin-bottom: 0.45rem;
+}
+
+@media (max-width: 768px) {
+  .teaching-intro p {
+    font-size: 1rem;
+  }
+
+  .teaching-title {
+    font-size: 1.08rem;
+  }
+}
