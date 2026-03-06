@@ -41,15 +41,6 @@
 @import "print";
 
 /* Custom link colours */
-a, a:visited {
-  color: #009e73; /* green */
-}
-
-a:hover, a:focus {
-  color: #1d5445; /* darker green */
-}
-
-/* Custom link colours */
 
 a, a:visited {
   color: #009e73; /* green */
@@ -176,5 +167,88 @@ a:hover, a:focus {
 
   .research-intro p {
     font-size: 1rem;
+  }
+}
+
+/* Homepage styling */
+
+.home-intro {
+  max-width: 48rem;
+  margin: 0 0 1.75rem 0;
+}
+
+.home-intro p {
+  margin: 0 0 1rem 0;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #374151;
+}
+
+.home-links {
+  margin: 0 0 2rem 0;
+}
+
+.home-link {
+  display: inline-block;
+  margin: 0 0.6rem 0.6rem 0;
+  padding: 0.38rem 0.8rem;
+  border: 1px solid #d9e2ec;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+  color: #1f2937;
+  background: #ffffff;
+}
+
+.home-link:hover,
+.home-link:focus {
+  text-decoration: none;
+  border-color: #b8c6d6;
+}
+
+.home-paper {
+  margin: 0 0 1.6rem 0;
+  padding: 0 0 1.2rem 0;
+  border-bottom: 1px solid #eceff3;
+}
+
+.home-paper-title {
+  margin: 0 0 0.3rem 0;
+  font-size: 1.15rem;
+  line-height: 1.35;
+}
+
+.home-paper-title a {
+  text-decoration: none;
+}
+
+.home-paper-title a:hover {
+  text-decoration: underline;
+}
+
+.home-paper-meta {
+  margin: 0 0 0.45rem 0;
+  color: #6b7280;
+  font-size: 0.96rem;
+}
+
+.home-paper-summary {
+  margin: 0;
+  color: #111827;
+  line-height: 1.7;
+}
+
+.home-more {
+  margin-top: 1.5rem;
+  color: #4b5563;
+}
+
+@media (max-width: 768px) {
+  .home-intro p {
+    font-size: 1rem;
+  }
+
+  .home-paper-title {
+    font-size: 1.08rem;
   }
 }
