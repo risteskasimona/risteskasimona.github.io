@@ -5,41 +5,70 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Experience
+<div class="teaching-intro">
+  <p>
+    I teach corporate finance, financial economics, and foundations of finance at undergraduate, postgraduate, and doctoral levels. My teaching spans empirical and theoretical finance, with a focus on clear economic intuition, careful quantitative reasoning, and strong links between models and real-world financial decisions.
+  </p>
+</div>
 
-### Warwick Business School
+## Current Teaching
 
-#### PhD:
+<div class="teaching-item">
+  <h3 class="teaching-title">Warwick Business School</h3>
 
-- IB9CM0 Empirical Corporate Finance
+  <div class="teaching-subsection">
+    <p class="teaching-level">PhD</p>
+    <ul class="teaching-list">
+      <li>IB9CM0 Empirical Corporate Finance</li>
+    </ul>
+  </div>
 
-#### Postgraduate:
+  <div class="teaching-subsection">
+    <p class="teaching-level">Postgraduate</p>
+    <ul class="teaching-list">
+      <li>IB810D Corporate Finance, GLOMBA</li>
+      <li>IB9LM0 Corporate Finance, MSc</li>
+    </ul>
+  </div>
 
-- IB810D Corporate Finance, GLOMBA
-- IB9LM0 Corporate Finance, MSc
+  <div class="teaching-subsection">
+    <p class="teaching-level">Undergraduate</p>
+    <ul class="teaching-list">
+      <li>IB1320 Foundations of Finance</li>
+      <li>IB1250 Foundations of Financial Management</li>
+    </ul>
+  </div>
+</div>
 
-#### Undergraduate:
+## Previous Teaching
 
-- IB1320 Foundations of Finance
-- IB1250 Foundations of Financial Management
+<div class="teaching-item">
+  <h3 class="teaching-title">London School of Economics</h3>
 
+  <div class="teaching-subsection">
+    <p class="teaching-level">Postgraduate</p>
+    <ul class="teaching-list">
+      <li>FM422E Corporate Finance, MSc</li>
+      <li>FM458 Financial Economics, MSc</li>
+      <li>Accounting for Corporate Finance for Executives</li>
+    </ul>
+  </div>
 
-### London School of Economics
+  <div class="teaching-subsection">
+    <p class="teaching-level">Undergraduate</p>
+    <ul class="teaching-list">
+      <li>FM213 Principles of Finance</li>
+      <li>FM230 Alternative Investments, Summer School</li>
+    </ul>
+  </div>
+</div>
 
-#### Postgraduate:
+## Teaching Recognition
 
-- FM422E Corporate Finance, MSc
-- FM458 Financial Economics, MSc
-- Accounting for Corporate Finance for Executives
-
-#### Undergraduate:
-
-- FM213 Principles of Finance
-- FM230 Alternative Investments (Summer School)
-
-## Teaching Awards
-
-- Outstanding Contribution to Teaching Award (WBS 2022, 2023, 2025)
-- LSESU Teaching Award for Excellent Feedback and Communication (LSE 2019)
-- Best Class Teacher Award (LSE 2018, 2019)
-
+<div class="teaching-item">
+  <ul class="teaching-list teaching-awards">
+    <li>Outstanding Contribution to Teaching Award, Warwick Business School, 2022, 2023, 2025</li>
+    <li>LSESU Teaching Award for Excellent Feedback and Communication, London School of Economics, 2019</li>
+    <li>Best Class Teacher Award, London School of Economics, 2018, 2019</li>
+  </ul>
+</div>
