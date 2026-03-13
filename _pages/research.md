@@ -146,6 +146,35 @@ portfolios: admissible scale is well below one day of average daily volume, and 
 ## Projects in Progress
 
 <div class="research-card research-card-compact">
+  <h3 class="research-title">Land Banking, Planning Uncertainty, and Housing Delivery</h3>
+
+  <div class="research-tags">
+    <span class="research-tag">Project in progress</span>
+    <span class="research-tag">Housing</span>
+    <span class="research-tag">Housebuilding</span>
+  </div>
+
+  <p class="research-summary">
+    I study how planning uncertainty, market structure, and strategic withholding interact along the housing development pipeline, with a particular focus on distinguishing raw-land banking from approved-land banking in the UK.
+  </p>
+</div>
+
+<div class="research-card research-card-compact">
+  <h3 class="research-title">Estimating Investment Mandates: A Demand-Based Approach</h3>
+
+  <p class="research-authors">with <a href="https://francesconicolai.github.io">Francesco Nicolai</a></p>
+
+  <div class="research-tags">
+    <span class="research-tag">Project in progress</span>
+    <span class="research-tag">Institutional investors</span>
+  </div>
+
+  <p class="research-summary">
+    We develop a demand-based framework to infer investment mandates from observed portfolio choices.
+  </p>
+</div>
+
+<div class="research-card research-card-compact">
   <h3 class="research-title">The Q Theory of Investment and Managerial Foresight</h3>
 
   <div class="research-tags">
@@ -164,21 +193,6 @@ portfolios: admissible scale is well below one day of average daily volume, and 
       I analyze a firm’s optimal investment problem when managers have private information about future marginal productivity of capital. While marginal q remains a sufficient statistic for investment, managerial foresight complicates its empirical estimation. I show that shocks recovered by ignoring foresight are not exogenous and can be predicted using past information. I then construct a news shock that explains a large share of investment variation and propose a new measure of marginal q that significantly improves the empirical explanation of corporate investment while reducing the apparent sensitivity of investment to cash flows.
     </p>
   </details>
-</div>
-
-<div class="research-card research-card-compact">
-  <h3 class="research-title">Estimating Investment Mandates: A Demand-Based Approach</h3>
-
-  <p class="research-authors">with <a href="https://francesconicolai.github.io">Francesco Nicolai</a></p>
-
-  <div class="research-tags">
-    <span class="research-tag">Project in progress</span>
-    <span class="research-tag">Institutional investors</span>
-  </div>
-
-  <p class="research-summary">
-    We develop a demand-based framework to infer investment mandates from observed portfolio choices.
-  </p>
 </div>
 
 <div class="research-card research-card-compact">
