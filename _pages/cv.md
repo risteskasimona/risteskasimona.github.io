@@ -8,6 +8,6 @@ redirect_from:
 ---
 [Download CV (PDF)](/files/CV-Simona-Risteska.pdf){: .btn }
 
-_Last updated: January 2026_
+_Last updated: February 2026_
 
 
