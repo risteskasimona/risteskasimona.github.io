@@ -144,6 +144,26 @@ portfolios: admissible scale is well below one day of average daily volume, and 
 </div>
 
 ## Projects in Progress
+<div class="research-card research-card-compact">
+  <h3 class="research-title">The Q Theory of Investment and Managerial Foresight</h3>
+
+  <div class="research-tags">
+    <span class="research-tag">Project in progress</span>
+    <span class="research-tag">Corporate finance</span>
+    <span class="research-tag">Investment</span>
+  </div>
+
+  <p class="research-summary">
+    I study how managerial foresight affects the measurement of marginal q and show that a foresight-adjusted measure better explains firm investment.
+  </p>
+
+  <details class="research-details">
+    <summary>Project description</summary>
+    <p>
+      I analyze a firm’s optimal investment problem when managers have private information about future marginal productivity of capital. While marginal q remains a sufficient statistic for investment, managerial foresight complicates its empirical estimation. I show that shocks recovered by ignoring foresight are not exogenous and can be predicted using past information. I then construct a news shock that explains a large share of investment variation and propose a new measure of marginal q that significantly improves the empirical explanation of corporate investment while reducing the apparent sensitivity of investment to cash flows.
+    </p>
+  </details>
+</div>
 
 <div class="research-card research-card-compact">
   <h3 class="research-title">Land Banking, Planning Uncertainty, and Housing Delivery</h3>
@@ -172,27 +192,6 @@ portfolios: admissible scale is well below one day of average daily volume, and 
   <p class="research-summary">
     We develop a demand-based framework to infer investment mandates from observed portfolio choices.
   </p>
-</div>
-
-<div class="research-card research-card-compact">
-  <h3 class="research-title">The Q Theory of Investment and Managerial Foresight</h3>
-
-  <div class="research-tags">
-    <span class="research-tag">Project in progress</span>
-    <span class="research-tag">Corporate finance</span>
-    <span class="research-tag">Investment</span>
-  </div>
-
-  <p class="research-summary">
-    I study how managerial foresight affects the measurement of marginal q and show that a foresight-adjusted measure better explains firm investment.
-  </p>
-
-  <details class="research-details">
-    <summary>Project description</summary>
-    <p>
-      I analyze a firm’s optimal investment problem when managers have private information about future marginal productivity of capital. While marginal q remains a sufficient statistic for investment, managerial foresight complicates its empirical estimation. I show that shocks recovered by ignoring foresight are not exogenous and can be predicted using past information. I then construct a news shock that explains a large share of investment variation and propose a new measure of marginal q that significantly improves the empirical explanation of corporate investment while reducing the apparent sensitivity of investment to cash flows.
-    </p>
-  </details>
 </div>
 
 <div class="research-card research-card-compact">
